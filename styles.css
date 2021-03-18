@@ -2,6 +2,13 @@
   background-color: #DAAD86;
   color: white;
 }
+a {
+  color: white;
+
+}
+a:hover {
+  color: #DAAD86;
+}
 #cv {
   background-color: #659DBD;
   max-width: 800px;
