@@ -1,3 +1,23 @@
+#top {
+  background-color: #DAAD86;
+  color: white;
+}
 #cv {
-  padding: 10% 20%;
+  background-color: #659DBD;
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 100px;
+  font-family: 'Nunito', sans-serif;
+  padding: 3%;
+}
+.mainDetails {
+  border-bottom: 2px solid #DAAD86;
+  display: flex;
+  justify-content: space-between;
+
+}
+ul {
+  list-style-type: none;
+  position: relative;
+  top: 20px;
 }
